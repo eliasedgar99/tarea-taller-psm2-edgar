@@ -25,4 +25,10 @@ void main(void) {
 
     // Mostramos el número aleatorio generado
     printf("El número ganador es: %d\n", randomNumber);
+
+    // Calcula la suma de (4+4)
+    int resultado = (4 + 4);
+
+    // Imprime el resultado
+    printf("El resultado de (4+4)es: %d\n", resultado);
 }
